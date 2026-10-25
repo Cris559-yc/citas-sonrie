@@ -1,0 +1,10 @@
+{
+  "name": "citas-sonrie",
+  "version": "1.0.0",
+  "description": "API REST de citas - Clinica Dental Sonrie",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.19.2",
+    "pg": "8.11.3"
+  }
+}
